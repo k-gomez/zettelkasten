@@ -3,11 +3,10 @@ date: 2022-01-27T11:53
 ---
 
 # Ontology
-[[c6c94211]]#
 
 Structure of connections and characteristics for a specific system that exists in real-world. Common vocabulary to enable sharing of information within a domain.
 
-OWL2: Based on the description logic SROIQ(D) [[db41d1ab]]
+OWL2: Based on the description logic SROIQ(D) --> [[db41d1ab]]#
 
 Classes: Characteristics that represent information from the real-world. Classes are strongly connected to taxonomies
 
@@ -23,5 +22,5 @@ Reasoning: Determine classification (determine most specific sub- and super-clas
 
 ## Implementations
 
-[[e92797f6]]
+[[86e47a20]]#
 
