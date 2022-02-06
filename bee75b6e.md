@@ -24,3 +24,6 @@ Reasoning: Determine classification (determine most specific sub- and super-clas
 
 [[86e47a20]]#
 
+## Mathematical principles
+
+[[25a1009e]]#
