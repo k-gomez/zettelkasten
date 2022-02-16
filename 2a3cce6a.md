@@ -1,11 +1,12 @@
 ---
 date: 2022-02-06T18:42
+tags:
+  - tool
 ---
 
 # Uptane
-Parent: [[43b9a09c]]
 
-Copy and pase from [https://uptane.github.io/](https://uptane.github.io/)
+Copy and paste from [https://uptane.github.io/](https://uptane.github.io/)
 
 Uptane is an open and secure software update system design which protects software delivered over-the-air to the computerized units of automobiles. The framework can thwart attacks from malicious actors who can compromise servers and networks used to sign and deliver updates. Hence, it is designed to be resilient even to the best efforts of nation state attackers. There are multiple different free open source and closed source implementations available. Uptane is integrated into Automotive Grade Linux, an open source system currently used by many large OEMs, and has also been adopted by a number of U.S. and international manufacturers. Within the next few years, about one-third of new cars on U.S. roads will include Uptane.
 

@@ -1,9 +1,10 @@
 ---
 date: 2022-01-21T15:27
+tags:
+    - tutorial
 ---
 
 # How to neuron
-Go to [[index]]
 
 ## Keys
 
@@ -17,15 +18,19 @@ Go to [[index]]
 - Open zettel under cursor: `<CR>` (enter in my case)
 - Show help: `gz?`
 
-## Heterarchy
+## Heterarchy / Overview
 
-- Use `gzL` if the zettel should be a cluster and has folgezettel
-- Use `gzl` for *stupid* links
+- Use `gzL` if the zettel for index and structural notes
+- Use `gzl` for *normal* links between zettels
+- Make use of tags. But do not use **more than 3 tags** on one zettel
 
 Hence, the following structure of a zettel should be used:
 ```
 ---
 date: ....
+tags:
+  - tag1
+  - tag2
 ---
 
 # Title of the zettel
