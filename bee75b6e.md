@@ -9,23 +9,17 @@ tags:
 
 Structure of connections and characteristics for a specific system that exists in real-world. Common vocabulary to enable sharing of information within a domain.
 
-OWL2: Based on the description logic SROIQ(D) 
-
-Classes: Characteristics that represent information from the real-world. Classes are strongly connected to taxonomies
-
-Instances: Sub-items (e.g. subclass) of a class. It can be a (sub)class (contains one or more instances or individuals) or an individual (is unique under all circumstances). Instances must be related to their classes
-
-Affiliations: Connections between instances. E.g. is an
-
-Knowledge base: Combination of ontology and instances
-
-Axioms: Knowledge about a specific domain. E.g. every vehicle model has a manufacturer
-
-Reasoning: Determine classification (determine most specific sub- and super-classes for all named classes), subsumption (find sub-, super-, or equivalent classes), consistency (determine differences in knowledge base), and instantiation (determine instances of classes)
+There are different parts to an ontology: [[d92ff579]]#
 
 There are a [[78ad73d0]]# that are maintained.
 
-## Knowledge-management
+## Structure
+
+Ontologies can be individual be connected. Examples are [[e92797f6]] and [[86e47a20]].
+
+Another option is to order them hierarchical: [[83b460c0]]#
+
+## Formats
 
 - [[db41d1ab]]#
 
