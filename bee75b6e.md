@@ -15,7 +15,7 @@ There are a [[78ad73d0]]# that are maintained.
 
 ## Structure
 
-Ontologies can be individual be connected. Examples are [[e92797f6]] and [[86e47a20]].
+Ontologies can be individual or connected. Examples are [[e92797f6]] and [[86e47a20]].
 
 Another option is to order them hierarchical: [[83b460c0]]#
 
