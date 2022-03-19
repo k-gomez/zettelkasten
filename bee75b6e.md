@@ -19,6 +19,12 @@ Ontologies can be individual or connected. Examples are [[e92797f6]] and [[86e47
 
 Another option is to order them hierarchical: [[83b460c0]]#
 
+## Layers
+
+[[26a24834]]#
+[[3d71a9a0]]#
+[[6795bd98]]#
+
 ## Formats
 
 - [[db41d1ab]]#
