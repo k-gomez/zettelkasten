@@ -19,6 +19,8 @@ Ontologies can be individual or connected. Examples are [[e92797f6]] and [[86e47
 
 Another option is to order them hierarchical: [[83b460c0]]#
 
+Different ontologies can expand horizontally and vertically: [[70e1a5db]]#
+
 ## Layers
 
 [[26a24834]]#
