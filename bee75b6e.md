@@ -34,3 +34,7 @@ Different ontologies can expand horizontally and vertically: [[70e1a5db]]#
 ## Tooling
 
 - [[ac99d6d4]]#
+
+## Other
+
+[[ed5a5cdf]]#
